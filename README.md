@@ -52,7 +52,7 @@ I generated an invoice from Receiver C and initiated a payment of 1 CKB from Sen
 
 ### Quest 1 Evidence
 
-![Quest 1 payment completed](screenshots/quest-1-payment-completed.png)
+![Quest 1 payment completed](quest-1-payment-completed.png)
 
 ## Quest 2: Reverse Payment from Receiver C to Sender A
 
@@ -76,11 +76,11 @@ The channel liquidity indicators changed as follows:
 
 **Liquidity before the reverse payment**
 
-![Liquidity before reverse payment](screenshots/quest-2-liquidity-before.png)
+![Liquidity before reverse payment](quest-2-liquidity-before.png)
 
 **Reverse payment confirmation and updated liquidity**
 
-![Reverse payment confirmation](screenshots/quest-2-reverse-payment-confirmation.png)
+![Reverse payment confirmation](quest-2-reverse-payment-confirmation.png)
 
 ## Technical Explanation: How the Reverse Payment Changed Liquidity
 
